@@ -1,0 +1,6 @@
+{
+  "name": "funcsaas — AI-Native Enterprise Software Delivery",
+  "description": "AI 原生企业软件交付平台，驱动 JeeWMS 等开源底座从需求评估、沙箱二开、门禁审批到 AIOps 运维的全生命周期交付。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
